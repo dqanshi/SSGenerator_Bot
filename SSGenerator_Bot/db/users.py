@@ -1,4 +1,4 @@
-from StringGenBot.db import db
+from SSGenerator_Bot.db import db
 
 usersdb = db.users
 
