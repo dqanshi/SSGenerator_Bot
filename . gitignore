@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+.gitattributes
+*.pyc
+.env
+
+
+
