@@ -47,4 +47,4 @@ Atleast Give A Star and Fork The Repo 🖤
 
 ## 💖 ᴄʀᴇᴅɪᴛs
 - » [𝗘𝗔𝗚𝗟𝗘](https://github.com/LofiGodam)
-- ».[Eagle].(https://telegram.me/EAGLE_BACK)
+
