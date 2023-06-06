@@ -6,7 +6,7 @@
   <a href="https://github.com/LofiGodam"><img alt="Website" src="https://img.shields.io/badge/𝗘𝗔𝗚𝗟𝗘-green"></a>
  
 [![Stars](https://img.shields.io/github/stars/LofiGodam/SSGenerator_Bot?style=social)](https://github.com/LofiGodam/SSGenerator_Bot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/LofiGodam/SSGenerator_Bot?style=social)](https://github.com/AnonymousX1025/SSGenerator_Bot/fork)
+  [![Forks](https://img.shields.io/github/forks/LofiGodam/SSGenerator_Bot?style=social)](https://github.com/LofiGodam/SSGenerator_Bot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
