@@ -48,4 +48,4 @@ Atleast Give A Star and Fork The Repo 🖤
 ## 💖 ᴄʀᴇᴅɪᴛs
 - » [𝗘𝗔𝗚𝗟𝗘](https://github.com/LofiGodam)
 
-- » [𝗦𝗧𝗔𝗥 𝗕𝗢𝗜](https://github.com/Itz_star_boi)
+- » [𝗦𝗧𝗔𝗥 𝗕𝗢𝗜](https://github.com/Itz-star-boi)
