@@ -24,18 +24,3 @@ def get_link(client, message):
 
     except Exception as e:
         message.reply_text(f"Error: {e}")
-
-# Run the bot
-app.run()
-This code will work for both public and private groups where the bot is an administrator. It first attempts to export the existing invite link, and if one exists, it retrieves and provides that link. Otherwise, it creates a new invite link using create_chat_invite_link and provides the newly created link.
-
-Remember to ensure that your bot has the necessary permissions to access the chat and create invite links in both public and private groups.
-
-
-
-
-
-Send a message
-
-
-Free Research Preview. ChatGPT may produce inaccurate information
