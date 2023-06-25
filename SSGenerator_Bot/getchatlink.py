@@ -1,5 +1,5 @@
 from pyrogram import Client, filters
-
+from main import app
 
 @app.on_message(filters.command("getlink"))
 def get_link(client, message):
